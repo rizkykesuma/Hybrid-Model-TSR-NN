@@ -5,7 +5,7 @@ library(car)
 library(neuralnet)
 
 #input data
-a=read.table("D:/Data Rizky/dataskripsi/padi.txt",header=T)
+a=read.table(file.choose(),header=T)
 rw=a$padi
 
 #grafik persebaran
