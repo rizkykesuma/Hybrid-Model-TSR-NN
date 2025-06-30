@@ -1,0 +1,6 @@
+Time series regression (TSR) is a forecasting method used to capture the linear pattern of time series data. However, in real life cases it is rare to find data that only has a linear pattern but also has non-linear patterns in it. 
+A hybrid model is a combination of linear and non-linear forecasting models or methods which are used to capture linear and non-linear patterns and also to increase forecasting accuracy. 
+One method that is often used to capture non-linear patterns in hybrid models is neural networks (NN). In this research, forecasting of the amount of rice production in Indonesia was carried out using the TSR model and the TSR-NN hybrid model. 
+The aim of this research is to find out the results and accuracy of TSR forecasting and the TSR-NN hybrid model and the comparison between the two. 
+The research results showed that the forecasting results of the TSR model and the TSR-NN hybrid model have the same seasonal pattern as in previous years with peak rice production predicted to occur in April, namely 8.699 million tons for the TSR model and 8.507 million tons for the TSR-NN hybrid model. 
+A comparison of the TSR model and the TSR-NN hybrid model showed that the TSR-NN hybrid model was able to increase the forecasting accuracy of the TSR model which originally had a mean absolute percentage error (MAPE) value of 8.654% to 5.494%.
